@@ -1,0 +1,46 @@
+
+g	java:S117É"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(©Øñ›
+C
+java:S1604V"(Make this anonymous inner class a lambda(…æ©âÿÿÿÿÿ
+D
+java:S1604ò"(Make this anonymous inner class a lambda(¨í¡§úÿÿÿÿ
+n	java:S116ş"XRename this field "jT_sauvegarde" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(õ‚çÑ
+n
+java:S1450ú"WRemove the "jButton1" field and declare it as a local variable in the relevant methods.(å……¶
+r
+java:S1450û"VRemove the "jLabel1" field and declare it as a local variable in the relevant methods.(°ãÉ¸ÿÿÿÿÿ
+r
+java:S1450ü"VRemove the "jPanel1" field and declare it as a local variable in the relevant methods.(´œ½ÿÿÿÿÿ
+w
+java:S1450ı"[Remove the "jScrollPane1" field and declare it as a local variable in the relevant methods.(¤á×ÿÿÿÿÿ
+V	java:S125 "<This block of commented-out lines of code should be removed.(ûëóŒıÿÿÿÿ
+Q	java:S125#"<This block of commented-out lines of code should be removed.(¹®Å€
+P
+java:S1161K":Add the "@Override" annotation above this method signature(†ŒË³
+i	java:S100“"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(«ÔÑùøÿÿÿÿ
+F
+java:S1172“"*Remove this unused method parameter "evt".(«ÔÑùøÿÿÿÿ
+A
+java:S1172¡"*Remove this unused method parameter "evt".(‚À‡ä
+M
+java:S2696®"6Make the enclosing method "static" or remove this set.(ïŒ Ö
+R
+java:S2696²"6Make the enclosing method "static" or remove this set.(¡–ü£ùÿÿÿÿ
+R	java:S125°"<This block of commented-out lines of code should be removed.(ã‘ÀÈ
+R
+java:S2696³"6Make the enclosing method "static" or remove this set.(Àí©øÿÿÿÿ
+R
+java:S2696´"6Make the enclosing method "static" or remove this set.(à‡©­øÿÿÿÿ
+R
+java:S2696µ"6Make the enclosing method "static" or remove this set.(ªèâşÿÿÿÿ
+M
+java:S2696Á"6Make the enclosing method "static" or remove this set.(Èº¿¿
+R	java:S125È"<This block of commented-out lines of code should be removed.(ÉÏ»ä
+F
+java:S1197Ù"*Move the array designators [] to the type.(¡şÏÖøÿÿÿÿ
+\
+java:S2147è"ECombine this catch with the one at line 230, which has the same body.(¨¦Š½
+\
+java:S2147ê"ECombine this catch with the one at line 232, which has the same body.(ã€ 
+[
+java:S2147ì"ECombine this catch with the one at line 234, which has the same body.(ñÎ¯%

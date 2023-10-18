@@ -1,0 +1,46 @@
+
+_
+java:S1192î"HDefine a constant instead of duplicating this literal "plaine" 13 times.(Ë€ÎŸ
+c
+java:S1192œ"GDefine a constant instead of duplicating this literal "foret" 11 times.(¥Â¨Áıÿÿÿÿ
+e
+java:S1192ì"IDefine a constant instead of duplicating this literal "riviere" 14 times.(ñ¿úÿÿÿÿ
+e
+java:S1192Ì"IDefine a constant instead of duplicating this literal "village" 24 times.(¸˜›¥øÿÿÿÿ
+`
+java:S1192È"IDefine a constant instead of duplicating this literal "montagne" 9 times.(¸ïÃÈ
+k	java:S117*"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‹²ç÷úÿÿÿÿ
+f	java:S117+"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(å°„Ó
+f	java:S117,"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŒÛ“Ë
+k	java:S117."QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¹è÷‚ùÿÿÿÿ
+k	java:S1170"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(µë¼¼ùÿÿÿÿ
+f	java:S1171"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¨ĞË
+e	java:S1173"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(£ë±m
+f	java:S117W"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¥©­×
+g	java:S117Ä"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¹…ÚŠ
+l	java:S117ñ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(«È¼ûÿÿÿÿ
+D
+java:S1604Â"(Make this anonymous inner class a lambda(¨í¡§úÿÿÿÿ
+n
+java:S1104Ê"WMake PanelEntete a static final constant or non-public and provide accessors if needed.(¨’ˆ´
+l	java:S116Ê"VRename this field "PanelEntete" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¨’ˆ´
+r
+java:S1450Ë"VRemove the "jPanel1" field and declare it as a local variable in the relevant methods.(´œ½ÿÿÿÿÿ
+Q
+java:S3252 ";Use static access with "java.awt.Image" for "SCALE_SMOOTH".(úÌ£¯
+E
+java:S1197]"*Move the array designators [] to the type.( â¢€şÿÿÿÿ
+Y
+java:S1479Æ"BReduce the number of non-empty switch cases from 72 to at most 30.(â˜ñÿ
+V
+java:S1161ê":Add the "@Override" annotation above this method signature(¦³±ÿÿÿÿÿ
+@
+java:S1172¡"*Remove this unused method parameter "evt".(³à¿h
+F
+java:S1197¨"*Move the array designators [] to the type.(¡şÏÖøÿÿÿÿ
+\
+java:S2147·"ECombine this catch with the one at line 437, which has the same body.(¨¦Š½
+\
+java:S2147¹"ECombine this catch with the one at line 439, which has the same body.(ã€ 
+[
+java:S2147»"ECombine this catch with the one at line 441, which has the same body.(ñÎ¯%

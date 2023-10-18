@@ -1,0 +1,42 @@
+
+n	java:S117´"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(©Øñ›8„œ³1
+J
+java:S16045"(Make this anonymous inner class a lambda(Ä×¢ûÿÿÿÿ8„œ³1
+J
+java:S1604C"(Make this anonymous inner class a lambda(…æ©âÿÿÿÿÿ8‘„œ³1
+E
+java:S1604L"(Make this anonymous inner class a lambda(ÿóÎ×8‘„œ³1
+u
+java:S1450É"WRemove the "jButton1" field and declare it as a local variable in the relevant methods.(å……¶8Ï„œ³1
+u
+java:S1450Ê"WRemove the "jButton2" field and declare it as a local variable in the relevant methods.(¤½ÃÜ8Ğ„œ³1
+y
+java:S1450Ë"VRemove the "jLabel1" field and declare it as a local variable in the relevant methods.(°ãÉ¸ÿÿÿÿÿ8Ğ„œ³1
+y
+java:S1450Ì"VRemove the "jLabel2" field and declare it as a local variable in the relevant methods.(™úòˆüÿÿÿÿ8Ñ„œ³1
+y
+java:S1450Í"VRemove the "jLabel3" field and declare it as a local variable in the relevant methods.(Îä€øÿÿÿÿ8Ñ„œ³1
+t
+java:S1450Î"VRemove the "jLabel4" field and declare it as a local variable in the relevant methods.(«¢•ã8Ñ„œ³1
+y
+java:S1450Ï"VRemove the "jPanel1" field and declare it as a local variable in the relevant methods.(´œ½ÿÿÿÿÿ8Ó„œ³1
+H
+java:S1172¡"*Remove this unused method parameter "evt".(‚À‡ä8ü„œ³1
+T
+java:S2696¨"6Make the enclosing method "static" or remove this set.(ÒÑÎô8ş„œ³1
+Y
+java:S2696ª"6Make the enclosing method "static" or remove this set.(«€ë´üÿÿÿÿ8ş„œ³1
+Y
+java:S2696«"6Make the enclosing method "static" or remove this set.(È‚êÓüÿÿÿÿ8ş„œ³1
+Y
+java:S2696¬"6Make the enclosing method "static" or remove this set.(ğ„øòşÿÿÿÿ8ÿ„œ³1
+Y
+java:S2696­"6Make the enclosing method "static" or remove this set.(Ñ««£ıÿÿÿÿ8ÿ„œ³1
+Y
+java:S2696®"6Make the enclosing method "static" or remove this set.(ÊÛ™ùÿÿÿÿ8ÿ„œ³1
+M
+java:S1172»"*Remove this unused method parameter "evt".(¹¾ûüÿÿÿÿ8‚…œ³1
+H
+java:S1172Ã"*Remove this unused method parameter "evt".(¶–³”8„…œ³1
+U
+java:S1135Ä"2Complete the task associated to this TODO comment.(ÜÀ†áûÿÿÿÿ8„…œ³1
